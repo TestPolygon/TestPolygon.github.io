@@ -1,12 +1,4 @@
-### Allo
-```
-
-  nothingToDo();
-
-```
-
-
-PG hosts this file:
+### PG hosts this file:
 
 As Web Page
  - https://testpolygon.github.io/test_folder/test_md_file
