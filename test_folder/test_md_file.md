@@ -1,4 +1,4 @@
-### PG hosts this file:
+### GP hosts this file:
 
 As Web Page:
   - MD link
