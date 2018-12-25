@@ -2,7 +2,7 @@
 
 
 - [Scroll testing](https://github.com/TestPolygon/scroll)
-- [GitHub Pages welcome](https://TestPolygon.github.io/welcome.md)
+- [GitHub Pages welcome](https://TestPolygon.github.io/welcome)
 
 
 ### Source code of this page
